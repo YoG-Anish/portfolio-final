@@ -1,0 +1,15 @@
+{
+  "name": "anish-maka-portfolio",
+  "version": "2.0.0",
+  "description": "Personal portfolio site for Anish Maka — WordPress developer.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Static site — nothing to build.'"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
