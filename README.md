@@ -221,4 +221,3 @@ Two real platform differences worth knowing about:
 Everything else (validation, honeypot field, security headers, link
 sanitizing) behaves identically to the local version.
 
-# portfolio-final
